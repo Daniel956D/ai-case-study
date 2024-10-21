@@ -1,4 +1,4 @@
-# ai-case-study
+# Ai-Case-Study
 Case study on AI Applications 
 ## DeepMind: Pioneering AI for Scientific Breakthroughs and Healthcare Solutions
 
